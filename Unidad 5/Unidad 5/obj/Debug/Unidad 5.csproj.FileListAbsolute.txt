@@ -1,0 +1,11 @@
+C:\Users\soned\Videos\Proyectos Terminados\Unidad 5\Unidad 5\bin\Debug\Unidad 5.exe.config
+C:\Users\soned\Videos\Proyectos Terminados\Unidad 5\Unidad 5\bin\Debug\Unidad 5.exe
+C:\Users\soned\Videos\Proyectos Terminados\Unidad 5\Unidad 5\bin\Debug\Unidad 5.pdb
+C:\Users\soned\Videos\Proyectos Terminados\Unidad 5\Unidad 5\obj\Debug\Unidad 5.csproj.AssemblyReference.cache
+C:\Users\soned\Videos\Proyectos Terminados\Unidad 5\Unidad 5\obj\Debug\Unidad 5.csproj.SuggestedBindingRedirects.cache
+C:\Users\soned\Videos\Proyectos Terminados\Unidad 5\Unidad 5\obj\Debug\Unidad_5.Form1.resources
+C:\Users\soned\Videos\Proyectos Terminados\Unidad 5\Unidad 5\obj\Debug\Unidad_5.Properties.Resources.resources
+C:\Users\soned\Videos\Proyectos Terminados\Unidad 5\Unidad 5\obj\Debug\Unidad 5.csproj.GenerateResource.cache
+C:\Users\soned\Videos\Proyectos Terminados\Unidad 5\Unidad 5\obj\Debug\Unidad 5.csproj.CoreCompileInputs.cache
+C:\Users\soned\Videos\Proyectos Terminados\Unidad 5\Unidad 5\obj\Debug\Unidad 5.exe
+C:\Users\soned\Videos\Proyectos Terminados\Unidad 5\Unidad 5\obj\Debug\Unidad 5.pdb
